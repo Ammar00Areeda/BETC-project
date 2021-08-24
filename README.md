@@ -1,3 +1,4 @@
+<!-- task2:1and2 -->
 # What is visual studio code?
 It is a free and open source code editor "MIT License" developed by Microsoft for many systems "Windows, Linux and macOS". This editor supports many languages and contains a large number of plugins that will make it easier for you to work on writing, editing and analyzing code. In 2018, the Visual Studio Code editor ranked first in the stackOverFlow survey as the most used development environment among developers.
 
@@ -122,3 +123,51 @@ GitLab is a single application that spans the entire software development lifecy
 for IDE im going with Visual Studio Code 
 and for Operating System : windows
 and for Version-control platform im going with gitHub
+
+
+<!-- task1 : 1,2and3
+task2 : 3 -->
+
+## problem domaon## 
+
+the problem domain is the Hope company need a whole web page so the customer can adopt cats and dogs online and they need to let who want to adopt the cats or dogs accept the contract 
+
+## risks 
+
+so the first thing for risk in this project is the time ,they need the project as posible as i can like the need it in a week 
+and the next risk is maybe the will have a changes and thats take time
+Scope of work is poorly specified. 
+
+## list of requirements
+
+- home page with a nice design
+- adoption page 
+- cart page
+- cancel somthing from cart 
+- greate header and footer 
+- information page for the breed atleast 5 for each
+
+
+## wire frame 
+
+![image](/img/buying adopting page.PNG)
+
+![image](img/home page wireframe.PNG)
+
+## activity digram
+
+![image](img/activity.PNG)
+
+## Coding and implementation technique
+we will work on water fall 
+
+## Testing technique
+
+- Boundary Value Analysis (BVA)
+
+- Error Guessing
+
+
+BVA : Based on a test at the partition borders, boundary value analysis is a method for As well as a range of maximums and minimums for both within and outside of borders
+
+error Guessing : As a software testing apprach, Mistake Guessing involve making educated guesses as to what kind of error may be As a result of this, the test analysts rely significantly on their past knowledge in order to anticipate what the difficult portion of the testing As a result, test analysts need to be knowledgeable and experienced in order to make superior mistake
