@@ -12,13 +12,12 @@ Scope of work is poorly specified.
 
 ## list of requirements
 
-- home page with a nice design
-- adoption page 
-- cart page
-- cancel somthing from cart 
-- greate header and footer 
-- information page for the breed atleast 5 for each
-- local storge
+- cards to take you to each page
+- add to cart (function)
+- table to show what he/she would to adopt
+- remove something from cart 
+- save the pet  in local storage 
+- add picture for pet for each breed and add information
 
 
 
